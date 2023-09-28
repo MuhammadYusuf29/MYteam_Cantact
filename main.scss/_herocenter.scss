@@ -1,0 +1,59 @@
+.hero__center {
+    padding: 20px 100px;
+}
+
+.hero__center h2 {
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 64px;
+}
+
+.hero__center h4 {
+    color: #F67E7E;
+    font-family: Livvic;
+    font-size: 32px;
+}
+
+.hero__center--img img {
+    display: flex;
+    margin-top: 10px;
+}
+
+.hero__center--quality {
+    display: flex;
+    align-items: center;
+}
+
+.hero__center--usage {
+    display: flex;
+    align-items: center;
+}
+
+.hero__center--drive {
+    display: flex;
+    align-items: center;
+}
+
+.hero__center--quality p {
+    padding: 0 10px;
+    margin-top: 20px;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+}
+
+.hero__center--usage p {
+    padding: 0 10px;
+    margin-top: 20px;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+}
+
+.hero__center--drive p {
+    padding: 0 10px;
+    margin-top: 20px;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+}
